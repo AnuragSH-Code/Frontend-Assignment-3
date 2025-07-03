@@ -1,0 +1,14 @@
+:root {
+  --spacing-1x: 1rem;
+  --spacing-2x: 2rem;
+
+}
+
+.app{
+    padding: var(--spacing-1x);
+}
+
+.title{
+    padding: var(--spacing-2x);
+    font-size: var(--spacing-2x);
+}
